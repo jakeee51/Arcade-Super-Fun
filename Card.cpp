@@ -98,4 +98,3 @@ void card::printCard() {
 card::~card()
 {
 }
-
