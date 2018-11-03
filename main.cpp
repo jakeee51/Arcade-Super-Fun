@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <alogrithm>
+#include <algorithm>
 
 #include "Card.h"
 #include "Deck.h"
