@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <alogorithm>
+#include <alogrithm>
 
 using namespace std;
 
