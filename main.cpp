@@ -3,6 +3,9 @@
 #include <vector>
 #include <alogrithm>
 
+#include "Card.h"
+#include "Deck.h"
+
 using namespace std;
 
 int main() {
