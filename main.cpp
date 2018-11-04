@@ -8,8 +8,7 @@ using namespace std;
 
 int main() {
 
-  map<int,string> deck;
-
+  
   
   return 0;
 }
