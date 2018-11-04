@@ -23,8 +23,6 @@ public:
 
 private:
 	vector<card> deckOfCards; //vector to hold the deck of cards
-	
-	int currentCard; //keeps track of the current card index in the vector
 };
 
 

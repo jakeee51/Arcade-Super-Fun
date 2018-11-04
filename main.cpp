@@ -10,7 +10,8 @@ using namespace std;
 
 int main() {
 
-  cout << "Hello! Sasha Oogly!" << endl;
+  map<int,string> deck;
+  
   
   return 0;
 }

@@ -20,7 +20,7 @@ Algorithm:
 2) Combines the nameFace and nameSuit to create a card value
 Assistance Received: None
 ********************************************************************* */
-card::card(int cardFace, int cardSuit) {
+card::cards(int cardFace, int cardSuit) {
 
 	switch(cardFace) {
 	case 1:
@@ -62,9 +62,6 @@ card::card(int cardFace, int cardSuit) {
 	case 13:
 		nameFace = "K";
 		break;
-	/* case 14:
-		nameFace = "A";
-		break; */
 	default:
 		break;
 	}
